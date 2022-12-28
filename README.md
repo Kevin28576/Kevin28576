@@ -1,13 +1,15 @@
-<h1 align="center">🌐 Hi ! I'm Haco 🌐</h1>
+<h1 align="center">✨ Hi! I'm Kevin ✨</h1>
 
 <h2 align="center">‼️ Information ‼️</h2>
 
 ```
-I am a student from Taiwan 
-My Real Name => Lin Chieh Sheng
-I have my own Development and Discord Bot
-I like coding bot, website, software, app
-If you have any question just DM me in Discord => MR.HACO#8888
+I am a student from Taiwan
+Although it is stated that I will be facing Taiwan's Comprehensive Assessment Program for Junior High School Students (CAP) in June next year
+But I still have a very passionate heart for writing code
+I have my own studio and a verified Discord Bot
+If you have any questions please PM me Disocord => **Krick#9685**
+But if you want to discuss studio cooperation with me please contact support@cloudxact.com
+thanks
 ```
 
 <h2 align="center">🔗 Social Link 🔗</h2>
