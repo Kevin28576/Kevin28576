@@ -12,7 +12,7 @@ But if you want to discuss studio cooperation with me please contact support@clo
 thanks
 ```
 
-<h2 align="center"><img src="https://github-readme-stats.vercel.app/api?username=yywbadm&show_icons=true&theme=radical" /> My Discord Card <img src="https://github-readme-stats.vercel.app/api?username=yywbadm&show_icons=true&theme=radical" /></h2>
+<h2 align="center"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" /> My Discord Card <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" /></h2>
 
 <div align="center">
 	<a href="https://discord.com/users/747071881169076264" >  
