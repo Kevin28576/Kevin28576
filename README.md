@@ -11,11 +11,6 @@ If you have any questions please PM me Disocord => Krick#9685
 But if you want to discuss studio cooperation with me please contact support@cloudxact.com
 thanks
 ```
-<div align="center">
-	<a href="https://discord.com/users/747071881169076264" >  
-  		<img src="https://lanyard.cnrad.dev/api/747071881169076264"  />  
-	</a>  
-</div>
 
 <h2 align="center">🔗 Social Link 🔗</h2>
 
@@ -49,3 +44,9 @@ thanks
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=MDHS-KD1-WEB&theme=tokyonight" />
 </p>
+
+<div align="center">
+	<a href="https://discord.com/users/747071881169076264" >  
+  		<img src="https://lanyard.cnrad.dev/api/747071881169076264"  />  
+	</a>  
+</div>
