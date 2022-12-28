@@ -18,8 +18,7 @@ thanks
   <a href="mailto:kevin@cloudxact.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
   <a href="https://www.youtube.com/@Kevin" target="_blanket"><img src="https://i.imgur.com/kk27I6n.png"/></a>
   <a href="https://discord.com/users/747071881169076264/" target="_blanket"><img src="https://i.imgur.com/XaAYKfF.png"/></a>
-  <a href="https://www.instagram.com/jason_lin_0222/" target="_blanket"><img src="https://cdn.icon-icons.com/icons2/1584/PNG/64/3721672-instagram_108066.png"/></a>
-  <a href="https://open.spotify.com/user/31bph3i2ybq5mzicui3cxvfghpmu" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
+  <a href="https://open.spotify.com/user/31ef23eewtrdrp4o7p2z2fd7o5ru" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
 </p>
 
 <h2 align="center">🔧 Development Tools 🔧</h2>
