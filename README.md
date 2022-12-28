@@ -30,7 +30,9 @@ thanks
 </p>
 
 <h2 align="center">🔧 Development Tools 🔧</h2>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,discord,docker,eclipse,firebase,flutter,git,github,django,githubactions,gitlab,idea,ai,ps,jenkins,jquery,kubernetes,linux,mongodb,mysql,nginx,nodejs,sqlite,unity,unreal,vscode,zig&perline=5" />
+  </a>
 <p align="center">
   
 </p>
