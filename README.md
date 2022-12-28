@@ -36,7 +36,7 @@ thanks
 
 <h2 align="center">🔧 Skills 🔧</h2>
   <a href="https://www.cloudxact.com" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,go,java,js,ts,wordpress,py,php,nestjs,svg,react,md,bots,docker,fortran,godot,unity,unreal,graphql" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,go,java,js,ts,wordpress,py,php,nestjs,svg,react,md,nginx,nodejs,bots,docker,fortran,godot,unity,unreal,graphql" />
   </a>
 
 <h2 align="center">📁 Profile Card 📁</h2>
