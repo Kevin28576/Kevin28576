@@ -7,7 +7,7 @@ I am a student from Taiwan
 Although it is stated that I will be facing Taiwan's Comprehensive Assessment Program for Junior High School Students (CAP) in June next year
 But I still have a very passionate heart for writing code
 I have my own studio and a verified Discord Bot
-If you have any questions please PM me Disocord => **Krick#9685**
+If you have any questions please PM me Disocord => Krick#9685
 But if you want to discuss studio cooperation with me please contact support@cloudxact.com
 thanks
 ```
