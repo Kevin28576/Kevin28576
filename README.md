@@ -31,7 +31,7 @@ thanks
 
 <h2 align="center">🔧 Development Tools 🔧</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,discord,docker,eclipse,firebase,flutter,git,github,django,githubactions,gitlab,idea,ai,ps,jenkins,jquery,kubernetes,linux,nginx,nodejs,unity,unreal,vscode,zig,mongodb,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=discord,aws,gcp,stackoverflow,docker,eclipse,firebase,flutter,git,github,django,githubactions,gitlab,idea,ai,ps,jenkins,jquery,kubernetes,linux,nginx,nodejs,unity,unreal,vscode,zig,mongodb,mysql,sqlite" />
   </a>
 <p align="center">
   
