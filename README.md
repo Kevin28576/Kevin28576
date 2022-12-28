@@ -12,7 +12,7 @@ But if you want to discuss studio cooperation with me please contact support@clo
 thanks
 ```
 
-<h2 align="center"><img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/> My Discord Card <img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" /></h2>
+<h2 align="center"><img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/> My Discord Card <img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/></h2>
 
 <div align="center">
 	<a href="https://discord.com/users/747071881169076264" >  
