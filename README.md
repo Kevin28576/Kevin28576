@@ -56,6 +56,7 @@ thanks
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin28576&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kevin28576&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kevin28576&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevin28576&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
