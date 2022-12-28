@@ -30,18 +30,14 @@ thanks
 </p>
 
 <h2 align="center">🔧 Development Tools 🔧</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,aws,gcp,stackoverflow,docker,eclipse,firebase,flutter,git,github,django,githubactions,gitlab,idea,ai,ps,jenkins,jquery,kubernetes,linux,nginx,nodejs,unity,unreal,vscode,zig,mongodb,mysql,sqlite" />
+  <a href="https://www.cloudxact.com" align="center">
+    <img src="https://skillicons.dev/icons?i=discord,aws,gcp,stackoverflow,codepen,docker,gradle,eclipse,firebase,flutter,git,github,django,githubactions,gitlab,idea,ai,ps,jenkins,jquery,pytorch,mastodon,kubernetes,jest,linux,nginx,bsd,nodejs,deno,unity,unreal,maven,vscode,zig,redux,ros,plan9,mongodb,mysql,sqlite" />
   </a>
-<p align="center">
-  
-</p>
 
 <h2 align="center">🔧 Skills 🔧</h2>
-
-<p align="center">
-  
-</p>
+  <a href="https://www.cloudxact.com" align="center">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,go,java,js,ts,wordpress,py,php,nestjs,svg,react,md,bots,docker,fortran,godot,unity,unreal,graphql" />
+  </a>
 
 <h2 align="center">📁 Profile Card 📁</h2>
 
