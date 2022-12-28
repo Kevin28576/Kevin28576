@@ -41,6 +41,6 @@ thanks
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Kevin28576&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api?username=Kevin28576&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=HACO-CODE-WORLD&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=MDHS-KD1-WEB&theme=tokyonight" />
 </p>
