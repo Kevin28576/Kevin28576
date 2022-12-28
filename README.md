@@ -56,11 +56,6 @@ thanks
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin28576&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin28576&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kevin28576&theme=tokyonight"/>
-<<<<<<< HEAD
-=======
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kevin28576&theme=tokyonight"/>
-  
->>>>>>> 36429d0d8d214c413809d6e3c02add455f0672bf
 
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
