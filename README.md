@@ -24,7 +24,7 @@ thanks
 
 <p align="center">
   <a href="mailto:kevin@cloudxact.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
-  <a href="https://www.youtube.com/@Krick" target="_blanket"><img src="https://i.imgur.com/kk27I6n.png"/></a>
+  <a href="https://www.youtube.com/@Krick-la" target="_blanket"><img src="https://i.imgur.com/kk27I6n.png"/></a>
   <a href="https://discord.com/users/747071881169076264/" target="_blanket"><img src="https://i.imgur.com/XaAYKfF.png"/></a>
   <a href="https://open.spotify.com/user/31ef23eewtrdrp4o7p2z2fd7o5ru" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
 </p>
