@@ -52,7 +52,7 @@ thanks
   <img src="https://github-readme-stats.vercel.app/api?username=Kevin28576&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevin28576&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kevin28576&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevin28576&theme=tokyonight&no-frame=true&row=1&column=7" align="center"/>
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
   -->
