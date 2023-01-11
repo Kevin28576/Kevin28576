@@ -3,13 +3,14 @@
 <h2 align="center">‼️ Information ‼️</h2>
 
 ```
-I am a student from Taiwan
-Although it is stated that I will be facing Taiwan's Comprehensive Assessment Program for Junior High School Students (CAP) in June next year
-But I still have a very passionate heart for writing code
-I have my own studio and a verified Discord Bot
-If you have any questions please PM me Disocord => Krick#9685
-But if you want to discuss studio cooperation with me please contact support@cloudxact.com
-thanks
+I am a student from Taiwan, although it is said that next May I will face Taiwan's Comprehensive Assessment Program for Junior High School Students (CAP)
+But I still have a heart that loves writing code very much
+Although my large development projects are all proprietary software, I sometimes release a small part of the source code or a small development project
+
+I have my own workshop and Discord verified Backup Mode Bot and are very active on Discord (including me)
+PM me if you have any questions Disocord => Krick#9685 But if you want to discuss studio collaborations with me please contact support@cloudxact.com
+
+Thanks in advance!
 ```
 
 <h2 align="center"><img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/> My Discord Card <img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/></h2>
