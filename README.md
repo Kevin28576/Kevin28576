@@ -7,6 +7,8 @@
 Focused on backend & API design (JS / TS), with some AI/NLP and embedded hardware on the side.
 Most large projects stay closed-source — this profile collects what I've open-sourced or archived.
 
+<img src="https://count.getloli.com/@Kevin28576?theme=rule34&padding=8&offset=0&align=center&scale=1.3&pixelated=1" />
+
 </div>
 
 <div align="center">
