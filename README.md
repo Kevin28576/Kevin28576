@@ -4,8 +4,8 @@
 
 **Founder of CloudXact Studio　·　Incoming University Student**
 
-Focused on backend & API design (JS / TS), with some AI/NLP and embedded hardware on the side.
-Most large projects stay closed-source — this profile collects what I've open-sourced or archived.
+Backend & API design (JS / TS) is my main focus, with AI/NLP and embedded hardware on the side.
+Most large projects stay closed-source; this profile collects what I've open-sourced or archived.
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Vercel+Geist&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=60&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%EF%BC%9C)%E2%8C%92%E2%98%86+++" alt="Typing SVG" />
@@ -34,7 +34,7 @@ Most large projects stay closed-source — this profile collects what I've open-
 
 <br>
 
-<h3 align="center">💬 About Me</h3>
+<h2 align="center">💬 About Me</h2>
 
 <table>
 <tr><td width="100%">
@@ -58,7 +58,7 @@ too, but I check email first.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:2b2b2b&height=2" />
 
-<h3 align="center">📌 Featured Projects</h3>
+<h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
 
@@ -115,7 +115,7 @@ too, but I check email first.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:2b2b2b&height=2" />
 
-<h3 align="center">🧩 Tech Stack</h3>
+<h2 align="center">🧩 Tech Stack</h2>
 
 <div align="center">
 
@@ -152,7 +152,7 @@ too, but I check email first.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:2b2b2b&height=2" />
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -196,14 +196,11 @@ too, but I check email first.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:2b2b2b&height=2" />
 
-<h3 align="center">🏆 Trophies</h3>
+<h2 align="center">🏆 Trophies</h2>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://miyuki-github-profile-trophy.vercel.app/?username=Kevin28576&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
-  <img src="https://miyuki-github-profile-trophy.vercel.app/?username=Kevin28576&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5&title_color=0EA5E9&icon_color=0EA5E9&text_color=333333" width="100%" />
-</picture>
+<img width="100%" src="https://miyuki-github-profile-trophy.vercel.app/?username=Kevin28576&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5" alt="Trophies" />
 
 </div>
 
