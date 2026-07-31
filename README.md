@@ -62,7 +62,7 @@ too, but I check email first.
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 <a href="https://github.com/Kevin28576/ServerAPI">
@@ -117,7 +117,9 @@ too, but I check email first.
 
 <h3 align="center">🧩 Tech Stack</h3>
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -143,6 +145,8 @@ too, but I check email first.
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
