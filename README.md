@@ -7,6 +7,10 @@
 Focused on backend & API design (JS / TS), with some AI/NLP and embedded hardware on the side.
 Most large projects stay closed-source — this profile collects what I've open-sourced or archived.
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Vercel+Geist&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=60&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%EF%BC%9C)%E2%8C%92%E2%98%86+++" alt="Typing SVG" />
+</a>
+
 <img src="https://count.getloli.com/@Kevin28576?theme=rule34&padding=8&offset=0&align=center&scale=1.3&pixelated=1" />
 
 </div>
@@ -20,6 +24,12 @@ Most large projects stay closed-source — this profile collects what I've open-
 [![Website](https://img.shields.io/static/v1?label=&message=kevin.com.tw&color=333333&style=flat-square&logo=googlechrome&logoColor=white)](https://kevin.com.tw)&nbsp;
 [![Studio](https://img.shields.io/static/v1?label=&message=cloudxact.com&color=333333&style=flat-square&logo=googlechrome&logoColor=white)](https://www.cloudxact.com)
 
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/747071881169076264">
+    <img src="https://discord.c99.nl/widget/theme-3/747071881169076264.png" alt="Discord Presence" />
+  </a>
 </div>
 
 <br>
@@ -50,39 +60,56 @@ too, but I check email first.
 
 <h3 align="center">📌 Featured Projects</h3>
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**[ServerAPI](https://github.com/Kevin28576/ServerAPI)**
-
-A REST API that lets websites, Discord bots, and dashboards read live server data.
-
-`Java`
-
+<td align="center">
+<a href="https://github.com/Kevin28576/ServerAPI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=ServerAPI&theme=github_dark&border_radius=10&show_owner=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=ServerAPI&theme=default&border_radius=10&show_owner=true" />
+  </picture>
+</a>
+<br>
+<img src="https://img.shields.io/codefactor/grade/github/Kevin28576/ServerAPI?style=for-the-badge&logo=codefactor&color=0EA5E9" />
 </td>
-<td width="33%" valign="top">
-
-**[shion_ai (AURORA)](https://github.com/Kevin28576/shion_ai)**
-
-A lightweight multi-task NLP research framework covering training, evaluation, and
-FastAPI deployment.
-
-`Python`
-
+<td align="center">
+<a href="https://github.com/Kevin28576/shion_ai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=shion_ai&theme=github_dark&border_radius=10&show_owner=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=shion_ai&theme=default&border_radius=10&show_owner=true" />
+  </picture>
+</a>
+<br>
+<img src="https://img.shields.io/codefactor/grade/github/Kevin28576/shion_ai?style=for-the-badge&logo=codefactor&color=0EA5E9" />
 </td>
-<td width="33%" valign="top">
-
-**[one_hand_keyboard](https://github.com/Kevin28576/one_hand_keyboard)**
-
-One-handed keyboard firmware built for an international science fair, using
-PlatformIO + Arduino with a 7x8 key matrix, 4 layers, and USB HID output.
-
-`C++` `Arduino`
-
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/Kevin28576/one_hand_keyboard">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=one_hand_keyboard&theme=github_dark&border_radius=10&show_owner=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=one_hand_keyboard&theme=default&border_radius=10&show_owner=true" />
+  </picture>
+</a>
+<br>
+<img src="https://img.shields.io/codefactor/grade/github/Kevin28576/one_hand_keyboard?style=for-the-badge&logo=codefactor&color=0EA5E9" />
+</td>
+<td align="center">
+<a href="https://github.com/Kevin28576/Vault3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=Vault3&theme=github_dark&border_radius=10&show_owner=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Kevin28576&repo=Vault3&theme=default&border_radius=10&show_owner=true" />
+  </picture>
+</a>
+<br>
+<img src="https://img.shields.io/codefactor/grade/github/Kevin28576/Vault3?style=for-the-badge&logo=codefactor&color=0EA5E9" />
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -121,34 +148,57 @@ PlatformIO + Arduino with a 7x8 key matrix, 4 layers, and USB HID output.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:2b2b2b&height=2" />
 
-<h3 align="center">🎮 Currently</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://discord.com/users/747071881169076264">
-    <img src="https://lanyard.cnrad.dev/api/747071881169076264?theme=dark&bg=0c1e2e&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" width="500" />
-  </a>
+
+<table>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Kevin28576&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kevin28576&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=0EA5E9&icon_color=0EA5E9" width="100%" />
+</picture>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kevin28576&hide_border=true&theme=dark&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <img src="https://streak-stats.demolab.com?user=Kevin28576&hide_border=true&theme=default&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" width="100%" />
+</picture>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Kevin28576&layout=compact&hide_border=true&theme=github_dark&title_color=38BDF8&langs_count=10&card_width=700" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kevin28576&layout=compact&hide_border=true&theme=default&title_color=0EA5E9&langs_count=10&card_width=700" width="100%" />
+</picture>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=62043&timezone=Asia%2FTaipei&labels=true&theme=catppuccin_dark" />
+  <img src="https://heatmap.shymike.dev?id=62043&timezone=Asia%2FTaipei&labels=true&theme=catppuccin_light" width="100%" />
+</picture>
+
 </div>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:2b2b2b&height=2" />
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🏆 Trophies</h3>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Kevin28576&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8" />
-  <img src="https://github-stats-extended.vercel.app/api?username=Kevin28576&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=0EA5E9&icon_color=0EA5E9" width="100%" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kevin28576&hide_border=true&theme=dark&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-  <img src="https://streak-stats.demolab.com?user=Kevin28576&hide_border=true&theme=default&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://miyuki-github-profile-trophy.vercel.app/?username=Kevin28576&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
+  <img src="https://miyuki-github-profile-trophy.vercel.app/?username=Kevin28576&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5&title_color=0EA5E9&icon_color=0EA5E9&text_color=333333" width="100%" />
 </picture>
 
 </div>
